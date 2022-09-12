@@ -10,6 +10,8 @@
 <div align = "left">
 Professional with 10 years of experience developing ERP software, analyzing large data structures, and managing teams of up to 8 members. Works in an organized and systematic way to achieve the best, cost-effective solution to problems and tasks. Adaptable and with good interpersonal skills.
 
+&NewLine;
+
 - Studying at Full Cycle course
 - Proud father of three boys
 
